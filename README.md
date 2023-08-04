@@ -1,3 +1,7 @@
+<p align="center">
+<img alt="" src="About/Preview.png">
+</p>
+
 [![Built for RimWorld](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2FCaptainArbitrary%2FStuffableToolCabinets%2Fmain%2FAbout%2FAbout.xml&query=%2FModMetaData%2FsupportedVersions%2Fli%5Blast()%5D&label=Built%20for%20RimWorld&style=for-the-badge)](https://rimworldgame.com/)
 &emsp;
 [![License](https://img.shields.io/github/license/CaptainArbitrary/StuffableToolCabinets?style=for-the-badge)](LICENSE)
