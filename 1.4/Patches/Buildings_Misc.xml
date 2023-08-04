@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "ToolCabinet"]/graphicData</xpath>
+    <value>
+      <shaderType>CutoutComplex</shaderType>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "ToolCabinet"]</xpath>
+    <value>
+      <stuffCategories>
+        <li>Woody</li>
+        <li>Metallic</li>
+      </stuffCategories>
+      <costStuffCount>150</costStuffCount>
+      <defaultStuff>Steel</defaultStuff>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName = "ToolCabinet"]/costList</xpath>
+    <value>
+      <costList>
+        <Steel>50</Steel>
+      </costList>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "ToolCabinet"]/building</xpath>
+    <value>
+      <paintable>true</paintable>
+    </value>
+  </Operation>
+
+</Patch>

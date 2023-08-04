@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <packageId>CaptainArbitrary.StuffableToolCabinets</packageId>
+  <name>Stuffable Tool Cabinets</name>
+  <author>CaptainArbitrary</author>
+  <description>Sick of that old green steel tool cabinet? Yeah, me too. Now you can make tool cabinets out of stuff!</description>
+  <url>https://github.com/CaptainArbitrary/StuffableToolCabinets</url>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+</ModMetaData>

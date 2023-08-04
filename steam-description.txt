@@ -1,0 +1,18 @@
+Sick of that old green steel tool cabinet? Yeah, me too. Now you can make tool cabinets out of stuff!
+
+The original recipe was 200 steel; the new recipe is [b]50 steel + 150 woody or metallic stuff[/b].
+
+Bonus feature: Stuffable tool cabinets can be painted! Want a pink wooden tool cabinet? You can have it!
+
+[h1]Important Information[/h1]
+Adding this mod [i]to[/i] a save game already in progress or removing it [i]from[/i] a save game already in progress will generate some scary-looking but harmless errors.
+[list]
+  [*] If you add this mod to a game where you've already built a tool cabinet then you try to deconstruct that tool cabinet, you'll get an error message saying "Cannot get AdjustedCostList for ToolCabinet with null Stuff." It is safe to ignore this error.
+  [*] If you build a stuffable tool cabinet then remove this mod from your game, trying to deconstruct that tool cabinet will give you an error message saying "Got AdjustedCostList for ToolCabinet with stuff [some stuff] but is not MadeFromStuff." It is safe to ignore this error.
+[/list]
+[h1]Acknowledgments[/h1]
+Portions of the materials used to create this mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
+
+[url=https://github.com/CaptainArbitrary/StuffableToolCabinets/blob/main/LICENSE][img]https://img.shields.io/github/license/CaptainArbitrary/ManyJobs?style=for-the-badge[/img][/url]
+[url=https://github.com/CaptainArbitrary/StuffableToolCabinets][img]https://img.shields.io/github/v/release/StuffableToolCabinets/ManyJobs?style=for-the-badge&label=GitHub%20Release[/img][/url]
+[url=https://ko-fi.com/T6T1NNFAL][img]https://shields.io/badge/ko--fi-Buy_me_a_coffee-ff5f5f?logo=ko-fi&style=for-the-badge[/img][/url]
