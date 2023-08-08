@@ -11,8 +11,8 @@
     <img alt="License" src="https://img.shields.io/github/license/CaptainArbitrary/StuffableToolCabinets?style=for-the-badge" />
   </a>
 &emsp;
-  <a href="https://github.com/CaptainArbitrary/StuffableToolCabinets/actions/workflows/push-ci.yml">
-    <img alt="CI Status" src="https://img.shields.io/github/actions/workflow/status/CaptainArbitrary/StuffableToolCabinets/push-ci.yml?style=for-the-badge&label=CI" />
+  <a href="https://github.com/CaptainArbitrary/StuffableToolCabinets/actions/workflows/ci.yml">
+    <img alt="CI Status" src="https://img.shields.io/github/actions/workflow/status/CaptainArbitrary/StuffableToolCabinets/ci.yml?style=for-the-badge&label=CI" />
   </a>
 &emsp;
   <a href="https://github.com/CaptainArbitrary/StuffableToolCabinets/issues">
