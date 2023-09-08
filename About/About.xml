@@ -8,4 +8,7 @@
   <supportedVersions>
     <li>1.4</li>
   </supportedVersions>
+  <loadAfter>
+    <li>4loris4.morelinkables</li>
+  </loadAfter>
 </ModMetaData>
