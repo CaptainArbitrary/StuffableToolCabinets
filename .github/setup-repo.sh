@@ -1,12 +1,5 @@
 #!/bin/bash
 
-MOD_NAME="StuffableToolCabinets"
-
-# Repository variables
-
-gh variable set MOD_NAME -b "$MOD_NAME"
-gh variable set ZIP_CONTENTS -b "1.4/ About/ Common/ LICENSE LoadFolders.xml"
-
 # Pull request type labels
 
 gh label create "chore" -d "A change that doesn't affect production code" -c "#c5def5" -f
